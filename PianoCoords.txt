@@ -1,0 +1,150 @@
+A list of all the piano coordinates
+
+Valentine Piano coords
+
+x: -312.30
+
+y: 798.99
+
+z: 118.48
+
+Heading: 105.00
+--------------------------------------------
+Armadillo Piano coords
+
+x: -3706.40
+
+y: -2589.07
+
+z: -13.85
+
+Heading: 7.50
+--------------------------------------------
+Blackwater Piano coords
+
+x: -814.94
+
+y: -1313.07
+
+z: 43.18
+
+Heading: 2.50
+--------------------------------------------
+Tumbleweed Piano coords
+
+x: -5516.03
+
+y: -2914.46
+
+z: -2.28
+
+Heading: 120.00
+--------------------------------------------
+John's House Piano coords
+
+x: -1639.11
+
+y: -1364.80
+
+z: 83.85
+
+Heading: 155.00
+--------------------------------------------
+Rhodes Piano coords
+
+x: 1347.00
+
+y: -1371.13
+
+z: 79.98
+
+Heading: 347.50
+--------------------------------------------
+Vanhorn Piano coords
+
+x: 2944.20
+
+y: 528.78
+
+z: 44.90
+
+Heading: 0.00
+--------------------------------------------
+Saint Denis 1 Piano coords
+
+x: 2631.88
+
+y: -1232.27
+
+z: 53.68
+
+Heading: 67.50
+--------------------------------------------
+Saint Denis 2 Piano coords
+
+x: 2800.65
+
+y: -1164.32
+
+z: 47.43
+
+Heading: 245.00
+--------------------------------------------
+Saint Denis Mansion Piano coords
+
+x: 2411.94
+
+y: -1077.28
+
+z: 46.92
+
+Heading: 40.00
+--------------------------------------------
+Angelo Bronte's Mansion Piano coords
+
+x: 2387.32
+
+y: -1210.05
+
+z: 46.66
+
+Heading: 302.50
+--------------------------------------------
+Braithwaite Manor Piano coords
+
+x: 1021.21
+
+y: -1770.53
+
+z: 47.08
+
+Heading: 270.00
+--------------------------------------------
+House under Bayou Piano coords
+
+x: 2070.84
+
+y: -851.39
+
+z: 42.86
+
+Heading: 273.00
+--------------------------------------------
+Saint Denis Poker room (above gunsmith) Piano coords
+
+x: 2721.32
+
+y: -1289.25
+
+z: 59.82 //59.84
+
+Heading: 212.50
+
+
+
+
+
+
+
+
+
