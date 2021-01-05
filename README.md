@@ -17,6 +17,14 @@ The source code is built on top of the "Pools" source provided with Alexander Bl
 - Copy "Pools.asi" file under /samples/Pools/bin/Release/ directory to your Red Dead Redemption 2 game folder.
 - Done!
 
+## Resources - Credits
+The mod was developed using the following resources/research. All credits go to the following sources. If it weren't for those people, this mod wouldn't exist.
+
+- [alloc8or's Native DB](https://alloc8or.re/rdr3/nativedb/)
+- [femga's GitHub research repository](https://github.com/femga/rdr3_discoveries)
+- [mod-rdr website](https://www.mod-rdr.com/)
+- [Alexander Blade's ScriptHook SDK](http://www.dev-c.com/rdr2/scripthookrdr2/)
+
 ## Contact
 You can contact me in the following platforms:
 - [Twitter](https://twitter.com/kostas96b)
