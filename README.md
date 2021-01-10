@@ -3,7 +3,7 @@ Source code of Playable Piano
 
 ## Description
 This is the source code of my Red Dead Redemption 2 mod "Playable Piano". I'm posting it for educational purposes. New modders can learn from the source and understand the game loop easier.
-## License 
+## Permission
 Don't redistribute the source code unless this repository is gone. If you want to share the source with other people link them to this page. You can use the source code in certain situations where you want to import it to your mod or your RedM server but before you do it, [contact me](https://github.com/KonstantinosTourtsakis/Playable-Piano-RDR2-#contact) for permission.
 
 ![thumbIMG](https://raw.githubusercontent.com/KonstantinosTourtsakis/Playable-Piano-RDR2-/main/screens/PlayablePiano.png)
