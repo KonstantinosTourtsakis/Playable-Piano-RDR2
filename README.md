@@ -1,5 +1,5 @@
 # Playable Piano (Red Dead Redemption 2)
-Source code of Playable Piano
+Source code of Playable Piano mod
 
 ## Description
 This is the source code of my Red Dead Redemption 2 mod "Playable Piano". I'm posting it for educational purposes. New modders can learn from the source and understand the game loop easier.
@@ -27,5 +27,5 @@ The mod was developed using the following resources/research. All credits go to 
 
 ## Contact
 You can contact me in the following platforms:
-- [Twitter](https://twitter.com/kostas96b)
-- Discord: kostas96b #2513
+- [Twitter](https://twitter.com/konstantinos96b)
+- Discord: Konstantinos96b #2513
